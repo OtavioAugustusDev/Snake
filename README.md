@@ -1,4 +1,5 @@
 # Snake Game em C
+<img width="1233" height="733" alt="Captura de tela 2025-09-16 181429" src="https://github.com/user-attachments/assets/2517670d-24e7-4e42-8fe7-67e6d517ec5b" />
 
 Um jogo clássico Snake implementado em C, onde o objetivo é coletar todas as frutas espalhadas pelo mapa sem colidir com as paredes ou com o próprio corpo.
 
